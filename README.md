@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello people! 👋
+
+About me:
+- I'm graduate in Automation & Control Engineering at UTFPR-CT.
+- I work with PLC and HMI/SCADA systems.
+- Programming enthusiastic, self-taught.
+- Starting to code.
+
+#### More info:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohenriquemz/)](https://www.linkedin.com/in/pedrohenriquemz/)
 
 <!--
 **pedrohenriquemz/pedrohenriquemz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
